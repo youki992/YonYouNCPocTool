@@ -38,3 +38,10 @@
 
 ### 设置ceye外带检测域名/Kimi AI key
 ![](pics/ee482e5a-22c6-4a37-aa1b-3cf73ed494d6.png)
+
+### 配置说明
+![](pics/61036832-7e9d-40ea-9711-5b55e25e4c05.png)
+
+### 结果导出
+![](pics/3c83c514-e58d-4150-a864-18e8fc380b8a.png)
+![](pics/7124049f-d464-496e-923c-bd5ff6fb4d26.png)
