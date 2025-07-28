@@ -35,3 +35,6 @@
 ## ✨ 功能
 ###  单目标/多目标批量检测
 ![](pics/44b2585d-351d-4f3f-a97f-99199b291ff9.png)
+
+### 设置ceye外带检测域名/Kimi AI key
+![](pics/ee482e5a-22c6-4a37-aa1b-3cf73ed494d6.png)
