@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/youki992/YonYouNCPocTool)
 ![GitHub all release](https://img.shields.io/github/downloads/youki992/YonYouNCPocTool/total?color=blueviolet)  
 
-用友NC系列漏洞检测利用工具，支持批量检测（多POC、多目标）、展示对应漏洞POC、dnslog交互、结果导出、AI问答交互等
+用友NC系列漏洞检测利用工具，支持批量检测（多POC、多目标）、展示对应漏洞POC（方便手工验证）、dnslog交互、结果导出、AI问答交互等
 
 > 免责声明：此工具仅限于安全研究，用户承担因使用此工具而导致的所有法律和相关责任！作者不承担任何法律责任！
 
