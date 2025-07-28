@@ -1,4 +1,4 @@
-# 用友NC系列漏洞检测工具
+# 用友NC漏洞批量检测工具
 
 <a href="https://github.com/youki992/YonYouNCPocTool"><img alt="Release" src="https://img.shields.io/badge/YonYouNCPocTool-1.0-ff69b4"></a>
 <a href="https://github.com/youki992/YonYouNCPocTool"><img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
@@ -11,4 +11,26 @@
 > 免责声明：此工具仅限于安全研究，用户承担因使用此工具而导致的所有法律和相关责任！作者不承担任何法律责任！
 
 ## 🕳️ 目前已集成
-* BshServlet rce
+* NC-BshServlet RCE
+* NC-NCFindWeb目录遍历
+* NC-accept.jsp 任意文件上传
+* NC-word.docx 任意文件读取
+* NC-Cloud smartweb2.RPC.d XXE
+* NC-Cloud soapFormat.ajax XXE
+* NC-Cloud MonitorServlet 反序列化
+* NC-Cloud uapjs JNDI注入RCE
+* NC-Cloud uploadChunk 任意文件上传
+* NC-runStateServlet-proInsPk SQL注入
+* NC-workflowImageServlet SQL注入
+* NC-grouptemplet 文件上传
+* NC-Cloud importhttpscer 任意文件上传
+* NC-download 任意文件读取
+* NC-saveImageServlet 文件上传
+* NC-FormulaViewAction SQL 注入
+* NC-bill SQL 注入
+* NC-cartabletimeline SQL 注入
+* NC-yerfile_down SQL注入
+* NC-Cloud uploadChunk 任意文件上传
+
+## ✨ 功能
+###  单目标/多目标批量检测
