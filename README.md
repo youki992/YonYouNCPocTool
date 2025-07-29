@@ -51,5 +51,8 @@
 * 优化检测规则
 * 优化POC显示
 
+## ✅ 注意
+* 本工具反序列化使用ysoserial-all.jar生成cc6利用poc，会在工具本地目录生成payload.bin文件
+
 ## 交流
 ![](pics/gzh.png)
