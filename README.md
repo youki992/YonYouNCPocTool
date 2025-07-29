@@ -13,6 +13,8 @@
 ## 🕳️ 目前已集成
 * NC-BshServlet RCE
 * NC-NCFindWeb目录遍历
+* NC-saveXmlToFileServlet 任意文件上传
+* NC-UserQueryServiceServlet 反序列化
 * NC-accept.jsp 任意文件上传
 * NC-word.docx 任意文件读取
 * NC-FormItemServlet SQL注入
