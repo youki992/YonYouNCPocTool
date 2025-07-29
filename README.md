@@ -15,21 +15,21 @@
 * NC-NCFindWeb目录遍历
 * NC-accept.jsp 任意文件上传
 * NC-word.docx 任意文件读取
-* NC-Cloud smartweb2.RPC.d XXE
-* NC-Cloud soapFormat.ajax XXE
-* NC-Cloud MonitorServlet 反序列化
-* NC-Cloud uapjs JNDI注入RCE
-* NC-Cloud uploadChunk 任意文件上传
+* NC-FormItemServlet SQL注入
 * NC-runStateServlet-proInsPk SQL注入
 * NC-workflowImageServlet SQL注入
 * NC-grouptemplet 文件上传
-* NC-Cloud importhttpscer 任意文件上传
 * NC-download 任意文件读取
 * NC-saveImageServlet 文件上传
 * NC-FormulaViewAction SQL 注入
 * NC-bill SQL 注入
 * NC-cartabletimeline SQL 注入
 * NC-yerfile_down SQL注入
+* NC-Cloud smartweb2.RPC.d XXE
+* NC-Cloud soapFormat.ajax XXE
+* NC-Cloud MonitorServlet 反序列化
+* NC-Cloud uapjs JNDI注入RCE
+* NC-Cloud importhttpscer 任意文件上传
 * NC-Cloud uploadChunk 任意文件上传
 
 ## ✨ 功能
