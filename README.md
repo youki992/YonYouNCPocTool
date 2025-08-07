@@ -9,10 +9,13 @@
 用友NC系列漏洞检测利用工具，支持批量检测（多POC、多目标）、展示对应漏洞POC（方便手工验证）、dnslog交互、结果导出、AI问答交互等
 
 > 免责声明：此工具仅限于安全研究，用户承担因使用此工具而导致的所有法律和相关责任！作者不承担任何法律责任！
+> 运行方法：java -jar jar包（编译环境为Java 1.8）
 
 ## 🕳️ 目前已集成
 * NC-BshServlet RCE
 * NC-NCFindWeb目录遍历
+* NC-checkekey SQL注入
+* NC-down SQL注入
 * NC-saveXmlToFileServlet 任意文件上传
 * NC-UserQueryServiceServlet 反序列化
 * NC-accept.jsp 任意文件上传
@@ -55,6 +58,7 @@
 
 ## ✅ 注意
 * 本工具反序列化使用ysoserial-all.jar生成cc6利用poc，会在工具本地目录生成payload.bin文件
+* 师傅们可以关注公众号，获取工具更新的第一手消息
 
 ## 交流
 ![](pics/gzh.png)
